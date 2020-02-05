@@ -1,4 +1,9 @@
 package lessons.lesson04;
 
-public class Sex {
+public enum  Sex {
+    MALE,
+    FEMALE,
+    UNKNOWN
+
+
 }
