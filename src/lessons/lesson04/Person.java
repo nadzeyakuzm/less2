@@ -1,6 +1,7 @@
 package lessons.lesson04;
 
 public class Person {
+    private static final String error_name = "Vasily";
     private String name;
 
     int age;
@@ -8,9 +9,25 @@ public class Person {
     protected Country country;
 
    public Sex sex;
+
+    public Person(int age) {
+        this.age = age;
+    }
+
+    public Person(String name) {
+        this.name = name;
+    }
+public Person (String name, Country country){
+
+}
+    public Person() {}
+
     public void walk () {
         System.out.println(name + "is walking");
 
+    }
+    public void walk (int time) {
+        System.out.println(name +"is walking for" + time + "minutes");
     }
     public void eat(String dish) {
         System.out.printf("He is eating smth", name, dish);
@@ -49,4 +66,15 @@ public class Person {
         this.country = country;
 
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", country=" + country +
+                ", sex=" + sex +
+                '}';
+    }
+
 }

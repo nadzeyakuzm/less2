@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebaa73f1-e48d-4012-8f2f-f02aa8db582d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/HW02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson03/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson03/Les3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson03/Less3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson03/Massive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson04/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson04/PersonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson04/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson04/less4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson04/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson04/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson04/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,21 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Country.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="272">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="25">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
                 <element signature="e#259#260#0" expanded="true" />
                 <element signature="e#325#326#0" expanded="true" />
                 <element signature="e#343#344#0" expanded="true" />
@@ -103,10 +107,10 @@
         <option value="$PROJECT_DIR$/src/lessons/lesson03/Massive.java" />
         <option value="$PROJECT_DIR$/src/lessons/lesson03/Les3.java" />
         <option value="$PROJECT_DIR$/src/lessons/lesson04/less4.java" />
-        <option value="$PROJECT_DIR$/src/lessons/lesson04/Country.java" />
         <option value="$PROJECT_DIR$/src/lessons/lesson04/Sex.java" />
         <option value="$PROJECT_DIR$/src/lessons/lesson04/PersonExample.java" />
         <option value="$PROJECT_DIR$/src/lessons/lesson04/Person.java" />
+        <option value="$PROJECT_DIR$/src/lessons/lesson04/Country.java" />
       </list>
     </option>
   </component>
@@ -147,13 +151,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="by.belhard.j20.lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="by.belhard.j20.lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580754566043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580926774600" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -217,18 +214,18 @@
       <updated>1580311673601</updated>
       <workItem from="1580311681163" duration="10874000" />
       <workItem from="1580743019986" duration="10126000" />
-      <workItem from="1580916159938" duration="4696000" />
+      <workItem from="1580916159938" duration="8361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25696000" />
+    <option name="totallyTimeSpent" value="29361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,7 +242,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14670256" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -326,13 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Sex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -349,9 +339,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="25">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
             <element signature="e#259#260#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
             <element signature="e#343#344#0" expanded="true" />
@@ -366,6 +362,19 @@
             <element signature="e#761#762#0" expanded="true" />
             <element signature="e#796#797#0" expanded="true" />
             <element signature="e#826#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/lesson04/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
           </folding>
         </state>
       </provider>
